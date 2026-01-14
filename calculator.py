@@ -17,4 +17,4 @@ def cube(a):
 	return a**3
 
 def square_n_times(number,n):
-	return number**(2*n)
+	return number**2*n
